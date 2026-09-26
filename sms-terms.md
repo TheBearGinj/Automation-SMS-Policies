@@ -4,15 +4,15 @@
 
 ## Program Description
 
-These SMS Terms & Conditions apply to the SMS messaging program operated by **Dev_Automation_Platform**, a sole proprietor development project.
+These SMS Terms & Conditions apply to the SMS messaging program operated by **Charles Gann, sole proprietor**, through the **Dev_Automation_Platform** development project.
 
-The **Dev_Automation_Platform** SMS program is used for development and testing of an automation platform designed to provide automated communication and workflow services.
+**Dev_Automation_Platform** is a development project operated by **Charles Gann, sole proprietor**, for developing and testing an automation platform designed to provide automated communication and workflow services.
 
 Current messaging is limited to individuals who have explicitly opted in to participate in development and testing. Test messages may include missed-call recovery notifications and other automated messages used to develop and verify platform functionality.
 
 ## Consent
 
-SMS messages from **Dev_Automation_Platform** are sent only to mobile numbers whose users have explicitly consented directly to **Dev_Automation_Platform** to receive development and testing SMS messages.
+SMS messages are sent by **Charles Gann, sole proprietor**, through the **Dev_Automation_Platform** development project only to mobile numbers whose users have explicitly consented directly to **Charles Gann, sole proprietor**, to receive development and testing SMS messages.
 
 Consent is obtained before enrollment in the SMS program and is specific to these development and testing messages.
 
@@ -30,7 +30,7 @@ Message and data rates may apply depending on your mobile carrier and service pl
 
 You may opt out of receiving SMS messages at any time by replying **STOP** to any message.
 
-After opting out, you will no longer receive SMS messages from the **Dev_Automation_Platform** SMS program unless you explicitly opt in again.
+After opting out, you will no longer receive messages from this SMS program unless you explicitly opt in again.
 
 ## Help
 
@@ -48,7 +48,11 @@ Information collected through the **Dev_Automation_Platform** SMS program is han
 
 Privacy Policy: **https://thebearginj.github.io/Automation-SMS-Policies/privacy.html**
 
-Mobile information and SMS consent information collected by **Dev_Automation_Platform** will not be sold, rented, or shared with third parties or affiliates for marketing or promotional purposes.
+Mobile phone numbers, SMS opt-in information, and messaging consent collected through this SMS program will **not be sold, rented, shared, or provided to third parties or affiliates for marketing or promotional purposes**.
+
+Messaging consent is specific to this development and testing SMS program and is not transferred to another business or organization.
+
+Service providers may process information only as necessary to provide technical infrastructure used to operate the messaging service and platform.
 
 ## Changes to These Terms
 
