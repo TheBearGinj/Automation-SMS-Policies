@@ -1,16 +1,18 @@
 # Privacy Policy
 
-**Last Updated: September 25, 2026**
+**Last Updated: September 26, 2026**
 
 ## Overview
 
-This privacy policy applies to Dev_Automation_Platform, a sole proprietor development project.
+This Privacy Policy applies to **Dev_Automation_Platform**, a sole proprietor development project.
 
-The platform is currently in development and is not being offered as a public consumer service. SMS functionality is used only with individuals who have explicitly consented to participate in development and testing.
+**Dev_Automation_Platform** is currently developing an automation platform designed to provide automated communication and workflow services. The platform is not currently offered as a public consumer service.
+
+SMS functionality is used only with individuals who have explicitly consented directly to **Dev_Automation_Platform** to participate in development and testing.
 
 ## Information We Collect
 
-During development and testing, we may collect and process limited information necessary to test the platform, including:
+During development and testing, **Dev_Automation_Platform** may collect and process limited information necessary to test the platform, including:
 
 - Mobile phone numbers
 - SMS message content
@@ -32,7 +34,9 @@ Information collected during development and testing is used only as necessary t
 
 ## SMS Messaging and Consent
 
-SMS messages are sent only to individuals who have explicitly consented to receive development and testing messages.
+SMS messages from **Dev_Automation_Platform** are sent only to individuals who have explicitly consented directly to **Dev_Automation_Platform** to receive development and testing SMS messages.
+
+Consent is obtained before enrollment in the SMS program and is specific to these development and testing messages.
 
 Message frequency varies based on development and testing activity. Message and data rates may apply.
 
@@ -40,9 +44,9 @@ Recipients may opt out of SMS messaging at any time by replying **STOP**. Recipi
 
 ## Mobile Information and Messaging Consent
 
-Mobile phone numbers, SMS opt-in information, and messaging consent will **not be sold, rented, shared, or provided to third parties or affiliates for marketing or promotional purposes**.
+Mobile phone numbers, SMS opt-in information, and messaging consent collected by **Dev_Automation_Platform** will **not be sold, rented, shared, or provided to third parties or affiliates for marketing or promotional purposes**.
 
-Messaging consent is specific to this development and testing program and is not transferred to another business or organization.
+Messaging consent is specific to the **Dev_Automation_Platform** development and testing SMS program and is not transferred to another business or organization.
 
 Service providers may process information only as necessary to provide technical infrastructure used to operate the messaging service and platform.
 
@@ -54,12 +58,10 @@ Reasonable technical and organizational measures are used to protect information
 
 ## Changes to This Policy
 
-This privacy policy may be updated as the platform develops or its use changes. The date at the top of this page will indicate the most recent revision.
-
-Before the platform is used with production clients or their customers, this policy and the applicable consent processes will be reviewed and updated to reflect the production service.
+This Privacy Policy may be updated as the platform develops or its use changes. The date at the top of this page will indicate the most recent revision.
 
 ## Contact
 
-Questions about this privacy policy or the SMS testing program may be directed to:
+Questions about this Privacy Policy or the **Dev_Automation_Platform** SMS testing program may be directed to:
 
 **tsaxctown@gmail.com**
