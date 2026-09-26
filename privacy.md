@@ -4,7 +4,7 @@
 
 ## Overview
 
-This privacy policy applies to the development and testing of an automation platform currently being built to provide automated communication and workflow services.
+This privacy policy applies to Charles Gann, a sole proprietor development project.
 
 The platform is currently in development and is not being offered as a public consumer service. SMS functionality is used only with individuals who have explicitly consented to participate in development and testing.
 
