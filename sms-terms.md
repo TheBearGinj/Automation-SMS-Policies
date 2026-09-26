@@ -42,7 +42,7 @@ Mobile carriers are not liable for delayed or undelivered messages.
 
 Information collected through this SMS program is handled according to our Privacy Policy.
 
-Privacy Policy: **[PRIVACY POLICY URL]**
+Privacy Policy: **https://thebearginj.github.io/Automation-SMS-Policies/privacy.html**
 
 Mobile information and SMS consent information will not be sold, rented, or shared with third parties or affiliates for marketing or promotional purposes.
 
