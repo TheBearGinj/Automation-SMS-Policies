@@ -4,15 +4,15 @@
 
 ## Overview
 
-This Privacy Policy applies to **Dev_Automation_Platform**, a sole proprietor development project.
+This Privacy Policy applies to **Charles Gann, sole proprietor**, and the **Dev_Automation_Platform** development project operated by him.
 
-**Dev_Automation_Platform** is currently developing an automation platform designed to provide automated communication and workflow services. The platform is not currently offered as a public consumer service.
+**Dev_Automation_Platform** is a development project operated by **Charles Gann, sole proprietor**, for developing and testing an automation platform designed to provide automated communication and workflow services.
 
-SMS functionality is used only with individuals who have explicitly consented directly to **Dev_Automation_Platform** to participate in development and testing.
+The platform is not currently offered as a public consumer service. SMS functionality is currently used only with individuals who have explicitly consented directly to **Charles Gann, sole proprietor**, to participate in development and testing of the **Dev_Automation_Platform** SMS program.
 
 ## Information We Collect
 
-During development and testing, **Dev_Automation_Platform** may collect and process limited information necessary to test the platform, including:
+During development and testing, limited information necessary to test and operate **Dev_Automation_Platform** may be collected and processed, including:
 
 - Mobile phone numbers
 - SMS message content
@@ -34,9 +34,9 @@ Information collected during development and testing is used only as necessary t
 
 ## SMS Messaging and Consent
 
-SMS messages from **Dev_Automation_Platform** are sent only to individuals who have explicitly consented directly to **Dev_Automation_Platform** to receive development and testing SMS messages.
+SMS messages are sent by **Charles Gann, sole proprietor**, through the **Dev_Automation_Platform** development project only to individuals who have explicitly consented to receive development and testing SMS messages.
 
-Consent is obtained before enrollment in the SMS program and is specific to these development and testing messages.
+Consent is provided directly to **Charles Gann, sole proprietor**, before enrollment in the SMS program and is specific to these development and testing messages.
 
 Message frequency varies based on development and testing activity. Message and data rates may apply.
 
@@ -44,9 +44,9 @@ Recipients may opt out of SMS messaging at any time by replying **STOP**. Recipi
 
 ## Mobile Information and Messaging Consent
 
-Mobile phone numbers, SMS opt-in information, and messaging consent collected by **Dev_Automation_Platform** will **not be sold, rented, shared, or provided to third parties or affiliates for marketing or promotional purposes**.
+Mobile phone numbers, SMS opt-in information, and messaging consent collected through the **Dev_Automation_Platform** SMS program will **not be sold, rented, shared, or provided to third parties or affiliates for marketing or promotional purposes**.
 
-Messaging consent is specific to the **Dev_Automation_Platform** development and testing SMS program and is not transferred to another business or organization.
+Messaging consent is specific to this development and testing SMS program and is not transferred to another business or organization.
 
 Service providers may process information only as necessary to provide technical infrastructure used to operate the messaging service and platform.
 
